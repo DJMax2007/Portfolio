@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## 🌐 Live Preview
 
-You can view the live version of the portfolio [here](https://your-portfolio-link.com).
+You can view the live version of the portfolio [here](https://ikemdinachi-aneke.netlify.app/).
 
 ## 📋 Features
 
