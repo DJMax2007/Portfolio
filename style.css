@@ -142,10 +142,10 @@ section .main-container{
   align-items: center;
 }
 
-.main-container .image{
+.main-container .image {
   width: 500px;
-  height: 70vh;
-  border-radius: 100%;
+  height: 500px;
+  border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 0 50px #b74b4b;
 }
@@ -558,5 +558,19 @@ section  .topic{
 
   .skill-item span {
     font-size: 14px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .main-container .image {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 600px) {
+  .main-container .image {
+    width: 200px;
+    height: 200px;
   }
 }
