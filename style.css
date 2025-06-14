@@ -10,7 +10,7 @@
 }
 
 html{
-  scroll-padding-top: 80px; /
+  scroll-padding-top: 60px; 
   scroll-behavior: smooth;
 }
 
@@ -138,11 +138,10 @@ nav{
 section{
   width: 100%;
   min-height: 90vh;
-  margin-top: 6rem;
 }
 
 section .main-container{  
-
+  padding-top: 6rem;
   display: flex;
   justify-content:space-between ;
   padding-left: 100px;
@@ -449,6 +448,14 @@ section  .topic{
   display: none;
 }
 
+.footer {
+  background-color: #9c5a3d;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 15px;
+  color: #8B0000; 
+  padding-top: 10px;
+}
 
 @media (max-width: 1150px) {
   .education .edu-details{
