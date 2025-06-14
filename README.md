@@ -18,8 +18,9 @@ You can view the live version of the portfolio [here](https://ikemdinachi-aneke.
 ## 🛠️ Technologies Used
 
 - **HTML5**
+- **Bootstrap**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **Google Fonts**
 - **Font Awesome Icons**
 
