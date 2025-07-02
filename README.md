@@ -11,7 +11,6 @@ You can view the live version of the portfolio [here](https://ikemdinachi-aneke.
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
 - **About Me Section:** Highlights my background, interests, and goals.
 - **Projects Showcase:** Displays key personal and collaborative projects.
-- **Contact Form:** Allows visitors to send messages directly from the website.
 - **Smooth Navigation:** Scroll-based animations and clean section transitions.
 - **Custom Styling:** Designed from scratch with modern CSS and animations.
 
